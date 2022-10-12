@@ -16,7 +16,8 @@
 - Using Java Interpreter (java) run code<br>
   **java cal**
 - Below Command for create jar file<br>
-   __jar cf javacalculator.jar *.class__ <br>
-   __jar cfe javacalculator.jar cal  *.class__
+   __jar cf JavaCalculator.jar *.class__ <br>
+   __jar cfe JavaCalculator.jar cal  *.class__
+- Finally file created as **JavaCalculator.jar** , open JavaCalculator and see output like attached image (output.PNG)
  
 
