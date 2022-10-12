@@ -12,12 +12,12 @@
 ## How to Run Code
 - Install above JDK Package and Set Environment Varialble: [View This Video](https://www.youtube.com/watch?v=N7l20-hg6r8)
 - cal.java file contain source of code 
-- Using Java Compiler (javac) compile code and create cal.class file
+- Using Java Compiler (javac) compile code and create cal.class file<br>
   **javac cal.java**
-- Using Java Interpreter (java) run code
+- Using Java Interpreter (java) run code<br>
   **java cal**
-- Below Command for create jar file
-   **jar cf javacalculator.jar *.class**
-   **jar cfe javacalculator.jar cal  *.class**
+- Below Command for create jar file<br>
+   __jar cf javacalculator.jar *.class__
+   __jar cfe javacalculator.jar cal  *.class__
  
 
